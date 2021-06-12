@@ -1,0 +1,13 @@
+C:\Users\Ryan\Desktop\File Jojon\Pemograman Dasar\cs2\bin\Debug\netcoreapp3.1\cs2.exe
+C:\Users\Ryan\Desktop\File Jojon\Pemograman Dasar\cs2\bin\Debug\netcoreapp3.1\cs2.deps.json
+C:\Users\Ryan\Desktop\File Jojon\Pemograman Dasar\cs2\bin\Debug\netcoreapp3.1\cs2.runtimeconfig.json
+C:\Users\Ryan\Desktop\File Jojon\Pemograman Dasar\cs2\bin\Debug\netcoreapp3.1\cs2.runtimeconfig.dev.json
+C:\Users\Ryan\Desktop\File Jojon\Pemograman Dasar\cs2\bin\Debug\netcoreapp3.1\cs2.dll
+C:\Users\Ryan\Desktop\File Jojon\Pemograman Dasar\cs2\bin\Debug\netcoreapp3.1\cs2.pdb
+C:\Users\Ryan\Desktop\File Jojon\Pemograman Dasar\cs2\obj\Debug\netcoreapp3.1\cs2.csprojAssemblyReference.cache
+C:\Users\Ryan\Desktop\File Jojon\Pemograman Dasar\cs2\obj\Debug\netcoreapp3.1\cs2.AssemblyInfoInputs.cache
+C:\Users\Ryan\Desktop\File Jojon\Pemograman Dasar\cs2\obj\Debug\netcoreapp3.1\cs2.AssemblyInfo.cs
+C:\Users\Ryan\Desktop\File Jojon\Pemograman Dasar\cs2\obj\Debug\netcoreapp3.1\cs2.csproj.CoreCompileInputs.cache
+C:\Users\Ryan\Desktop\File Jojon\Pemograman Dasar\cs2\obj\Debug\netcoreapp3.1\cs2.dll
+C:\Users\Ryan\Desktop\File Jojon\Pemograman Dasar\cs2\obj\Debug\netcoreapp3.1\cs2.pdb
+C:\Users\Ryan\Desktop\File Jojon\Pemograman Dasar\cs2\obj\Debug\netcoreapp3.1\cs2.genruntimeconfig.cache
